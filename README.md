@@ -12,7 +12,7 @@ This is a project completed by the DEV10 Associates listed below in Week 9 of th
 
 - Jessica Hoffman: Investigated the effect of regularization strength on the Lasso and Ridge regression coefficients on the `cars93` dataset and the [Cooper Union Car Dataset](https://www.kaggle.com/datasets/CooperUnion/cardataset) to see if model drift impacted later model vehicle price prediction. 
 - Jake Uhl: Compared the performance of the Lasso and Ridge regression algorithms on the `diabetes` dataset.
-- Jesse Noss: Analyzed the relationship between car weight and price using Lasso and Ridge regression on the `diamonds` dataset.
+- Jesse Noss: ACompared the performance of the Lasso and Ridge regression algorithms on the `diamonds` dataset.
 
 ## Key Figures
 
