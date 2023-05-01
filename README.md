@@ -39,11 +39,13 @@ Here are some key figures from the notebook:
 ![regression model scores](Jessica/img/newcarsmse.png)
 
 ### Figure 6: Ridge and Lasso Regularization Paths
-
-![regularization paths](Jessica/img/regularization_paths.png)
+[Click here](Lasso_Ridge_Regression.pptx)
+ to view our PowerPoint presentation.
 
 
 ## PowerPoint Presentation
 
-[Click here](https://docs.google.com/presentation/d/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX/edit?usp=sharing) to view our PowerPoint presentation.
+[Click here](Lasso_Ridge_Regression.pptx)
+ to view our PowerPoint presentation.
 
+or here for the pdf format: <iframe src="https://docs.google.com/presentation/d/1yyS6t0EiZl2tdnu4EJhNu8VPLVq_B0fP9uP9RKE_nDs/edit?usp=sharing" width="640" height="480"></iframe>
