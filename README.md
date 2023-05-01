@@ -4,9 +4,9 @@ This is a project completed by the DEV10 Associates listed below in Week 9 of th
 
 ## Group Members
 
-- [Jake](https://github.com/LassoRidge/Jake)
-- [Jessica](https://github.com/LassoRidge/Jessica)
-- [Jesse](https://github.com/LassoRidge/Jesse)
+- [Jake](/Jake)
+- [Jessica](/Jessica)
+- [Jesse](/Jesse)
 
 ## Contributions
 
